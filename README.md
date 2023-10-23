@@ -31,5 +31,27 @@ there are 4 graph
 
 <img width="823" alt="Screenshot 2566-10-24 at 00 01 21" src="https://github.com/6434433923/Tableau-AdvventureWorkDW2019/assets/111390371/3bbbece3-61a3-47a0-9051-a55838264ab9">
 
+# Sales per employees in 2010 - 2014
+Sum of Sales Amount for each Order Date Year broken down by First Name.  Color shows details about Order Date Year. The data is filtered on Full Date Alternate Key Year, Country Region Code, State Province Name and Order Date Month. The Full Date Alternate Key Year filter has multiple members selected. The Country Region Code filter keeps multiple members. The State Province Name filter keeps multiple members. The Order Date Month filter keeps 12 of 12 members. The view is filtered on Order Date Year, which keeps 2010, 2011, 2012, 2013 and 2014.
+
+<img width="1058" alt="Screenshot 2566-10-24 at 00 12 59" src="https://github.com/6434433923/Tableau-AdvventureWorkDW2019/assets/111390371/42cd05c6-a344-4b8b-8fd6-301e5f6bf195">
+
+# Sales by product type
+English Product Name (color) and sum of Sales Amount (size). The data is filtered on Order Date Month, Country Region Code, State Province Name and Order Date Year. The Order Date Month filter keeps 12 of 12 members. The Country Region Code filter keeps multiple members. The State Province Name filter keeps multiple members. The Order Date Year filter keeps 2010, 2011, 2012, 2013 and 2014.
+
+<img width="167" alt="Screenshot 2566-10-24 at 00 13 53" src="https://github.com/6434433923/Tableau-AdvventureWorkDW2019/assets/111390371/dadea72b-cbb8-4d3d-a545-bd5fd9496817">
+
+# Most order product
+English Product Name.  Size shows sum of Order Quantity.  The marks are labeled by English Product Name. The data is filtered on Order Date Month, Country Region Code, State Province Name and Order Date Year. The Order Date Month filter keeps 12 of 12 members. The Country Region Code filter keeps multiple members. The State Province Name filter keeps multiple members. The Order Date Year filter keeps 2010, 2011, 2012, 2013 and 2014. The view is filtered on sum of Order Quantity, which keeps non-Null values only.
+
+
+<img width="167" alt="Screenshot 2566-10-24 at 00 13 53" src="https://github.com/6434433923/Tableau-AdvventureWorkDW2019/assets/111390371/062e41f4-82f1-486a-a06a-f8d6f4dfbcd6">
+
+
+# Top sales employees
+Sum of Sales Amount for each First Name. The data is filtered on Order Date Month, Country Region Code, State Province Name, Order Date Year and Index. The Order Date Month filter keeps 12 of 12 members. The Country Region Code filter keeps multiple members. The State Province Name filter keeps multiple members. The Order Date Year filter keeps 2010, 2011, 2012, 2013 and 2014. The Index filter keeps 10 members.
+
+<img width="688" alt="Screenshot 2566-10-24 at 00 15 39" src="https://github.com/6434433923/Tableau-AdvventureWorkDW2019/assets/111390371/795a27a3-2c9a-4aa3-b449-ef40deffbcb8">
+
 
 
