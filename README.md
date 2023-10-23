@@ -2,6 +2,11 @@
 
 this project represent in my intro to data warehouse and data mining class.
 
+#Dashboard
+
+![AdventureDashboard](https://github.com/6434433923/Tableau-AdvventureWorkDW2019/assets/111390371/7f0b8401-39ee-469e-88f9-f2ff052d116a)
+
+
 # Total Sales
 Sum of Sales Amount. The data is filtered on Sales Territory Country and Order Date Year. The Sales Territory Country filter keeps 7 of 7 members. The Order Date Year filter keeps 2010, 2011, 2012, 2013 and 2014.
 
